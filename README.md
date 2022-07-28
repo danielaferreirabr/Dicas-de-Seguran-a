@@ -1,5 +1,5 @@
-# Dicas-de-Seguranca
-Dicas de Segurança - PM
+# Dicas-de-Segurança
+Dicas de Segurança Pessoal
 
 
 1 - Não demorem no embarque e no desembarque do veiculo!
